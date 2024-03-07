@@ -16,7 +16,7 @@ body {
 }
 .landing-side-logo{
   padding-left: 0px;
-  padding-top: 40px;
+  padding-top: 52px;
 }
 .right{
   background-image: url("images/newbanner.jpg");
@@ -230,7 +230,7 @@ footer div p a:hover {
     border-radius: 5px; 
     
     margin: auto; 
-    margin-top: 10px; 
+    margin-top: 20px; 
   }
   
   .content h3 {
