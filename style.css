@@ -3,10 +3,10 @@ body {
   font-family: 'Arial', sans-serif;
   color: white;
   text-align: center;
-  /*background-image: url("images/Banner.PNG");*/
+  background-image: url("images/Banner.PNG");
   padding-left: 200px;
   padding-right: 200px;
-  padding-top: 125px;
+  padding-top: 150px;
   
 }
 .header-container{
@@ -125,28 +125,10 @@ footer div p a:hover {
   text-decoration: underline;
 }
 
-  form {
-    background-color:white;
-    color: black;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px  red;
-    width: 300px;
-    margin: 20px;
-  }
+  
 
-  label {
-    display: block;
-    margin-bottom: 8px;
-  }
 
-  input,
-  select {
-    width: 100%;
-    padding: 8px;
-    margin-bottom: 12px;
-    box-sizing: border-box;
-  }
+  
 
   button {
     background-color: black;
